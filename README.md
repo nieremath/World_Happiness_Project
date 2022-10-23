@@ -1,5 +1,5 @@
 # World_Happiness_Project
-## Exploration of happiness and variables that may be correlated with it
+Exploration of happiness and variables that may be correlated with it
 
 ## Project Idea 
 Using the survey data from the World Happiness Report, I wanted to see if there were specific variables that were correlated with happiness. 
