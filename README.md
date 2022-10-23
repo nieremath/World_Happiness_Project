@@ -1,5 +1,7 @@
 # World_Happiness_Project
-Exploration of happiness and variables that may be correlated with it
+Exploration of happiness and variables that may be correlated with it.
+Link to slide deck presentation - https://docs.google.com/presentation/d/1gk8GpT8jGO5cIRpUUrp5I3RwsM-tqanhbzhGsKwj1nM/edit?usp=sharing
+Link to Tableau Dashboard - https://public.tableau.com/app/profile/mel.niere/viz/WorldHappinessProject_16649118490270/UserDashboard
 
 ## Project Idea 
 Using the survey data from the World Happiness Report, I wanted to see if there were specific variables that were correlated with happiness. 
