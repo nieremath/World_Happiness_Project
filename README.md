@@ -1,7 +1,7 @@
 # World_Happiness_Project
 Exploration of happiness and variables that may be correlated with it.
-Link to slide deck presentation - https://docs.google.com/presentation/d/1gk8GpT8jGO5cIRpUUrp5I3RwsM-tqanhbzhGsKwj1nM/edit?usp=sharing
-Link to Tableau Dashboard - https://public.tableau.com/app/profile/mel.niere/viz/WorldHappinessProject_16649118490270/UserDashboard
+[Slide Deck](https://docs.google.com/presentation/d/1gk8GpT8jGO5cIRpUUrp5I3RwsM-tqanhbzhGsKwj1nM/edit?usp=sharing)
+[Tableau Dashboard](https://public.tableau.com/app/profile/mel.niere/viz/WorldHappinessProject_16649118490270/UserDashboard)
 
 ## Project Idea 
 Using the survey data from the World Happiness Report, I wanted to see if there were specific variables that were correlated with happiness. 
@@ -35,11 +35,11 @@ To further explore this dataset, I created a Tableau dashboard to look at indivi
 Tableau User Dashboard - https://public.tableau.com/app/profile/mel.niere/viz/WorldHappinessProject_16649118490270/UserDashboard
 
 ## Sources
-Link to World Happiness Report - https://worldhappiness.report/
-Link to World Happiness Raw Data - https://www.kaggle.com/datasets/mathurinache/world-happiness-report.
-Link to GDP data from World Bank Data - https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-Link to Life Expectancy data from World Bank Data - https://data.worldbank.org/indicator/SP.DYN.LE00.IN
-Link to Unemployment data from World Bank Data - https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
-Link to Safe Water Usage and Sanitation Services from Food and Agriculture of the United Nations - https://www.fao.org/faostat/en/#data/FS
-Link to Freedom Score from Freedom House - https://freedomhouse.org/countries/freedom-world/scores
-Linked Education Index from Wiki (compiled from UNESCO) - https://en.wikipedia.org/wiki/Education_Index
+<br> Link to World Happiness Report - https://worldhappiness.report/
+<br> Link to World Happiness Raw Data - https://www.kaggle.com/datasets/mathurinache/world-happiness-report.
+<br> Link to GDP data from World Bank Data - https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+<br> Link to Life Expectancy data from World Bank Data - https://data.worldbank.org/indicator/SP.DYN.LE00.IN
+<br> Link to Unemployment data from World Bank Data - https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
+<br> Link to Safe Water Usage and Sanitation Services from Food and Agriculture of the United Nations - https://www.fao.org/faostat/en/#data/FS
+<br> Link to Freedom Score from Freedom House - https://freedomhouse.org/countries/freedom-world/scores
+<br> Linked Education Index from Wiki (compiled from UNESCO) - https://en.wikipedia.org/wiki/Education_Index
